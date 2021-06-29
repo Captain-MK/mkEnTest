@@ -6,4 +6,4 @@ base_url: 'https://api.crowdin.com'
 preserve_hierarchy: true
 files:
   - source: peppermint_IOS.strings
-    translation: /%osx_code%/%original_file_name%
+    translation: /%osx_code%/Localizable.strings
