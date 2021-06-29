@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4D4930C2268ACCB5005015A5 /* peppermint_IOS.strings in Resources */ = {isa = PBXBuildFile; fileRef = 4D4930C1268ACCB5005015A5 /* peppermint_IOS.strings */; };
 		4DDF95702681DDC800256D31 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DDF956F2681DDC800256D31 /* AppDelegate.m */; };
 		4DDF95762681DDC800256D31 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DDF95752681DDC800256D31 /* ViewController.m */; };
 		4DDF95792681DDC800256D31 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4DDF95772681DDC800256D31 /* Main.storyboard */; };
@@ -22,6 +23,7 @@
 
 /* Begin PBXFileReference section */
 		46BFE118D8391FAB423F795C /* Pods-yuyanTest.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-yuyanTest.release.xcconfig"; path = "Target Support Files/Pods-yuyanTest/Pods-yuyanTest.release.xcconfig"; sourceTree = "<group>"; };
+		4D4930C1268ACCB5005015A5 /* peppermint_IOS.strings */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; path = peppermint_IOS.strings; sourceTree = "<group>"; };
 		4DDF956B2681DDC800256D31 /* yuyanTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = yuyanTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DDF956E2681DDC800256D31 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		4DDF956F2681DDC800256D31 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 		4DDF95622681DDC800256D31 = {
 			isa = PBXGroup;
 			children = (
+				4D4930C1268ACCB5005015A5 /* peppermint_IOS.strings */,
 				4DDF95962681E07200256D31 /* Localizable.strings */,
 				4DDF958F2681E01900256D31 /* InfoPlist.strings */,
 				4DDF956D2681DDC800256D31 /* yuyanTest */,
@@ -181,6 +184,7 @@
 			files = (
 				4DDF95942681E07200256D31 /* Localizable.strings in Resources */,
 				4DDF957E2681DDC900256D31 /* LaunchScreen.storyboard in Resources */,
+				4D4930C2268ACCB5005015A5 /* peppermint_IOS.strings in Resources */,
 				4DDF958D2681E01900256D31 /* InfoPlist.strings in Resources */,
 				4DDF957B2681DDC900256D31 /* Assets.xcassets in Resources */,
 				4DDF95792681DDC800256D31 /* Main.storyboard in Resources */,
