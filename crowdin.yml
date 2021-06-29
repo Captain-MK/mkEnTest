@@ -1,9 +1,9 @@
-"project_id": "461988"                     #open project settings and go to API section
-"api_token": "ee2270c330137b2ab15e216e66605c9ed650ffdee398f93f9c4d1c2fec8012b3fe1de9e9fae89c83"          #open profile settings and go to API & SSO > New Token > create Token
-"base_path": "/"
-"base_url": "https://api.crowdin.com"
-"preserve_hierarchy": true
-
+project_id: '461988'
+api_token: >-
+  ee2270c330137b2ab15e216e66605c9ed650ffdee398f93f9c4d1c2fec8012b3fe1de9e9fae89c83
+base_path: /
+base_url: 'https://api.crowdin.com'
+preserve_hierarchy: true
 files:
-  - source: en.lproj/Localizable.strings
+  - source: peppermint_IOS.strings
     translation: /%osx_code%/%original_file_name%
