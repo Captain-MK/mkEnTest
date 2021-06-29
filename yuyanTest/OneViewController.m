@@ -20,7 +20,7 @@
 //    self.label1.text = NSLocalizedString(@"not implemented",@"");
 //    self.label2.text = NSLocalizedString(@"Edit",@"");
     self.label1.text = NSLocalizedString(@"pushBtn",@"");
-    self.label2.text = NSLocalizedString(@"test14",@"");
+    self.label2.text = NSLocalizedString(@"pushBtn2",@"");
     self.label3.text = NSLocalizedString(@"test15",@"");
 }
 @end
