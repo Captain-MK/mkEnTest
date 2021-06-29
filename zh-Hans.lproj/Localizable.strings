@@ -5,27 +5,4 @@
   Created by MK on 2021/6/22.
   
 */
-//"OK" = "好的1";
-//"Location" = "地址1";
-//"not implemented" = "not implemented[L]";
-//"Cancel" = "关闭1";
-//"Main" = "主要的1";
-//"Done" = "完成1";
-//"Edit" = "编辑1";
-//"test" = "new str";
-//"test2" = "new str2222";
-//"test3" = "test3";
-//"test4" = "test4";
-//"test5" = "test5";
-//"test6" = "test6";
-//"test7" = "test7";
-//"test8" = "test8";
-//"test9" = "test9";
-//"test10" = "test10";
-//"test11" = "test11";
-//"test12" = "test12";
-//"test13" = "test133zh";
-//"test14" = "test144zh";
-//"pushBtn" = "按钮";
-//"pushBtn" = "按钮";
-
+"pushBtn" = "push";
