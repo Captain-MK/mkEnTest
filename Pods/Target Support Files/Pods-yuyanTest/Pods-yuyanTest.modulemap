@@ -1,0 +1,6 @@
+framework module Pods_yuyanTest {
+  umbrella header "Pods-yuyanTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
