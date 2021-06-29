@@ -21,6 +21,6 @@
 //    self.label2.text = NSLocalizedString(@"Edit",@"");
     self.label1.text = NSLocalizedString(@"pushBtn",@"");
     self.label2.text = NSLocalizedString(@"pushBtn2",@"");
-    self.label3.text = NSLocalizedString(@"test15",@"");
+    self.label3.text = NSLocalizedString(@"new",@"");
 }
 @end
