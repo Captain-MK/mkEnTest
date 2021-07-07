@@ -1,14 +1,8 @@
-/* 
-  Localizable.strings
-  yuyanTest
-
-  Created by MK on 2021/6/22.
-  
-*/
-"shanchu" = "shanchu English";
-"pushBtn" = "push Btn MK";
+"CFBundleDisplayName" = "English Test";
+"shanchu" = "shanchu live nnnn";
+"pushBtn" = "push Btn MK1";
 "pushBtn2" = "push English2";
 "new" = "xin de";
-"new2" = "English new 2";
-"new3" = "new add 3";
+"new2" = "English new 2nnnnn";
+"new3" = "English new  live 3aaaaaa";
 "new4" = "new4";
