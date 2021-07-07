@@ -1,14 +1,8 @@
-/* 
-  Localizable.strings
-  yuyanTest
-
-  Created by MK on 2021/6/22.
-  
-*/
-"shanchu" = "删除m k";
-"pushBtn" = "扑哧m k 按钮";
-"pushBtn2" = "推销2";
-"new" = "新增的";
-"new2" = "new2";
-"new3" = "新增3";
-"new3" = "新增3";
+"CFBundleDisplayName" = "中文测试";
+"shanchu" = "中文 删除";
+"pushBtn" = "推送 Btn 1";
+"pushBtn2" = "推送 Btn 2";
+"new" = "新增加1";
+"new2" = "新增加2";
+"new3" = "新增加3";
+"new4" = "new4";
